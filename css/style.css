@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(214, 201, 184);
+    font-family: monospace;
+    font-size: 16px;
+}
+
+.title {
+    font-size: 3em;
+    text-align: center;
+}
+
+.sub-title {
+    font-size:1.5em;
+    text-align: center;
+}
+
+li {
+    margin:10px;
+}
